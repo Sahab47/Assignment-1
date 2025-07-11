@@ -9,7 +9,7 @@
 .navbar-banner{
     max-width: 1440px;
     margin: 0 auto;
-    background-image: url(/Assets/Hero-bg.png);
+    background-image: url(/images/Hero-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -86,7 +86,7 @@ padding-bottom: 40px;
     color: blue;
     font-size: 80px;
     font-weight: bold;
-     margin-bottom: 4px; /* reduce space below the heading */
+     margin-bottom: 4px; 
      line-height: 1.1;
     
 
